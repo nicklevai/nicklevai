@@ -1,4 +1,4 @@
-### Hi there 👋 Everything Is Private(It's not like i have mouch to show) for insecurities reasons. 
+### Hi there 👋 Everything Is Private(It's not like i have mouch to show)
 
 <!--
 **nicklevai/nicklevai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
