@@ -1,4 +1,4 @@
-### Hi there 👋 Everything Is Private.
+### Hi there 👋 Beggining of the new era.
 
 <!--
 **nicklevai/nicklevai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
