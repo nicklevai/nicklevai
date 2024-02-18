@@ -1,5 +1,7 @@
 ### Hi there 👋 Beggining of the new era.
-
+<p align="center" >
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nicklevai&theme=dark" alt="GitHub Streak" /></a>
+</p>
 <!--
 **nicklevai/nicklevai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
